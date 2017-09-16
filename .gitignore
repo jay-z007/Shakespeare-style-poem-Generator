@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#ignore the dataset
+/RNN/dataset
+*.pkl
+*.p
